@@ -3,3 +3,5 @@ welcom to tarento kitchen
 kheer
 pasta
 chicken fry
+pizza
+beans
